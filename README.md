@@ -4,7 +4,7 @@ I'm building Streetlight, a free, no-account AI support tool for people navigati
 
 The live tool is here: https://access-tool-eight.vercel.app
 
-The source is here: https://github.com/am-dj-ct/access-tool
+The source is here: https://github.com/am-dj-ct/streetlight
 
 ## What I'm working on
 
@@ -32,4 +32,4 @@ This is not "AI for the homeless," a service directory, a research project, or a
 For Streetlight issues or security reports, use the instructions in the repository:
 
 - Bug reports: https://access-tool-eight.vercel.app/report-problem
-- Security policy: https://github.com/am-dj-ct/access-tool/blob/main/SECURITY.md
+- Security policy: https://github.com/am-dj-ct/streetlight/blob/main/SECURITY.md
