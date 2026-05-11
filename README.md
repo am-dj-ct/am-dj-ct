@@ -2,7 +2,7 @@
 
 I'm building Streetlight, a free, no-account AI support tool for people navigating housing instability, paperwork, benefits, and hard decisions.
 
-[Live site](https://access-tool-eight.vercel.app) · [Source code](https://github.com/am-dj-ct/streetlight)
+[Live site](https://streetlight.help) · [Source code](https://github.com/am-dj-ct/streetlight)
 
 ## What I'm working on
 
@@ -29,5 +29,5 @@ This is not "AI for the homeless," a service directory, a research project, or a
 
 For Streetlight issues or security reports, use the instructions in the repository:
 
-- Bug reports: [Report a problem](https://access-tool-eight.vercel.app/report-problem)
+- Bug reports: [Report a problem](https://streetlight.help/report-problem)
 - Security policy: [SECURITY.md](https://github.com/am-dj-ct/streetlight/blob/main/SECURITY.md)
